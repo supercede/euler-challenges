@@ -1,1 +1,1 @@
-## A repo for solved solutions to project euler challenges
+## A repo for solved solutions to [project euler](https://projecteuler.ne) challenges
